@@ -13,7 +13,7 @@ from aiogram.types import reply_keyboard
 import markup as nav
 import media as photo
 
-TOKEN = "5072998281:AAHG4uXYuSUdOlP1DHBh8GtEWS5KCmDh_98"
+TOKEN = ""
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
